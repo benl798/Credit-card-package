@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+.primary {
+  background-color: orange;
+  outline: blue;
+}
+
+
+h1 {
+  color: red;
+}
